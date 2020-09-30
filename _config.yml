@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 
-url: "https://melyanna.github.io"
+url: "https://andresjgonzalez6.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -15,10 +15,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Tea time
+title: Gonzalez GitHub Pages
 
 # Short description of your site
-description: Blog, scrapbook, and virtual space for my experiments.
+description: Master of Project Evaluation & Data Analytics, Lab 05 for CPP 527
 
 # --- Navigation bar options --- #
 
@@ -26,7 +26,7 @@ description: Blog, scrapbook, and virtual space for my experiments.
 navbar-links:
   Blog: ""
   About: "about"
-  Tags: "https://melyanna.github.io/tags/"
+  Tags: "https://andresjgonzalez6.github.io/tags/"
   # Website: "https://melyanna.net/"
   Subscribe: "subscribe"
   Search: "search"
@@ -43,15 +43,24 @@ title-img: "/img/avatar/favicon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#ffec9f"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#A44B8A"
-hover-col: "#724565"
-footer-col: "#ffec9f"
-footer-text-col: "#777777"
-footer-link-col: "#A44B8A"
+# light blue
+navbar-col: "#61F7F2"
+# Black
+navbar-text-col: "#000000"
+# Deep Blue
+navbar-children-col: "#0112FF"
+# Ivory
+page-col: "#FFECAE"
+# Deep Red
+link-col: "##FC1101"
+# Bright Green
+hover-col: "##1DE107"
+# Pale Purple 
+footer-col: "#FFC1FD"
+# Black
+footer-text-col: "#000000"
+# White
+footer-link-col: "#FFFEFE"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
