@@ -243,7 +243,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      color: blue }
 
 .gs-section-02 p {
-     font-size: 40px;
+     font-size: 35px;
      
 }
 
@@ -251,7 +251,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      color: green }
 
 .gs-section-03 p {
-     font-size: 50px;
+     font-size: 40px;
      
 }
 
